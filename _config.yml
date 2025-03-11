@@ -23,8 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Lokesh Varadarj"
-  pronouns         : "he/him"# example: "she/her"  
+  name             : "Lokesh Varadarj" 
   bio              : "Undergrad at IIT Delhi"
   location         : "New Delhi, India"
   employer         : "IIT Delhi"
