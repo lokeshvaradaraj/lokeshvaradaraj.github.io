@@ -1,10 +1,10 @@
 # Authors
-
-Name Name:
+LokeshVaradaraj:
   name        : "Lokesh Varadaraj"
-  uri         : "http://name.com"
   email       : "ph1221858@iitd.ac.in"
-  bio         : ""
-#  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  uri         : "https://lokeshvaradaraj.github.io"
+  bio         : "Undergraduate in Engineering Physics at IIT Delhi, working on Machine Learning and Physics."
+  avatar      : "profile_pic.jpg"   # Put this image in /images/
+  location    : "New Delhi, India"
+  institution : "IIT Delhi"
+  linkedin    : "https://www.linkedin.com/in/lokeshvaradaraj/"
